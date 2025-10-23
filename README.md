@@ -241,7 +241,7 @@ If you find this project helpful, please consider giving it a star on GitHub!
 
 ---
 
-**Made with ❤️ by [Yehani Harshika]**
+**Made with ❤️ by Yehani Harshika**
 
 **Powered by Groq AI • Built with React & TypeScript • Styled with Tailwind CSS**
 
