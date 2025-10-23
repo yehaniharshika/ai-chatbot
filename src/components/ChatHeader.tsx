@@ -33,7 +33,7 @@ export default function ChatHeader({ onClearChat }: ChatHeaderProps) {
           title="Clear chat"
         >
           <Trash2 className="w-4 h-4" />
-          <span className="hidden sm:inline text-sm font-medium">Clear</span>
+          <span className="hidden sm:inline text-sm font-medium cursor-pointer">Clear</span>
         </button>
       </div>
     </div>

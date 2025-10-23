@@ -208,13 +208,7 @@ npm run build
 - **Shift + Enter** - New line in message
 - **Clear Button** - Reset entire conversation
 
-## 🪪 License
-
-© 2025 All Right Reserved Created By Yehani Harshika
-This project is licensed under the [MIT](License.txt) license
-
 ---
-
 
 ## 🎓 Learning Resources
 
@@ -236,16 +230,15 @@ This project is licensed under the [MIT](License.txt) license
 
 ---
 
-## ⭐ Star History
+## 🪪 License
 
-If you find this project helpful, please consider giving it a star on GitHub!
+© 2025 All Right Reserved Created By Yehani Harshika
+This project is licensed under the [MIT](License.txt) license
 
 ---
 
-**Made with ❤️ and ⚡ by [Your Name]**
+If you find this project helpful, please consider giving it a star on GitHub!
+**Made with ❤️ by [Yehani Harshika]**
 
 **Powered by Groq AI • Built with React & TypeScript • Styled with Tailwind CSS**
 
----
-
-_Last Updated: October 23, 2025_
