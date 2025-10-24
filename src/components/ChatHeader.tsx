@@ -17,13 +17,13 @@ export default function ChatHeader({ onClearChat }: ChatHeaderProps) {
           </div>
           <div>
             <div className="flex items-center gap-2">
-              <h1 className="text-xl font-bold text-white">Groq AI Chatbot</h1>
+              <h1 className="text-xl font-bold text-white">ChatGrok</h1>
               <div className="flex items-center gap-1 bg-white/20 backdrop-blur-sm px-2 py-0.5 rounded-full">
                 <Zap className="w-3 h-3 text-yellow-300" />
                 <span className="text-xs font-semibold text-white">Fast</span>
               </div>
             </div>
-            <p className="text-sm text-indigo-100">Powered by Llama 3.1</p>
+            <p className="text-[13px] text-indigo-100 font-medium">Powered by Llama 3.1</p>
           </div>
         </div>
         
